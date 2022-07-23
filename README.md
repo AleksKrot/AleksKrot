@@ -9,6 +9,22 @@
   <th>Диплом/Сертификат</th>
 </tr>
 <tr>
+  <td><a href = "https://practicum.yandex.ru/data-scientist/">Специалист по Data Science</a></td>
+  <td>Яндекс.Практикум</td>
+  <td><a href = "https://practicum.yandex.ru/">Яндекс.Практикум</a></td>
+  <td>В процессе</td>
+  <td>В процессе</td>
+  <td>нет</td>
+</tr>
+<tr>
+  <td><a href = "https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science</a></td>
+  <td>IBM</td>
+  <td><a href = "https://www.coursera.org/">Coursera</a></td>
+  <td>Завершен</td>
+  <td>2020</td>
+  <td><a href = "https://github.com/AleksKrot/welcome_page/blob/main/IBM%20Data%20Science.pdf">En</a></td>
+</tr>
+<tr>
   <td><a href = "https://www.coursera.org/specializations/introduction-data-science">Introduction to Data Science</a></td>
   <td>IBM</td>
   <td><a href = "https://www.coursera.org/">Coursera</a></td>

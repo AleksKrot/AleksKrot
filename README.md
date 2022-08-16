@@ -14,8 +14,8 @@
   <td><a href = "https://practicum.yandex.ru/">Яндекс.Практикум</a></td>
   <td>Завершен</td>
   <td>2022</td>
-  <td><a href = "https://github.com/AleksKrot/AleksKrot/blob/main/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%20%D0%BF%D0%BE%20Data%20Science.pdf">Ru</a></td> 
-</tr>
+  <td><a href = "https://github.com/AleksKrot/AleksKrot/blob/main/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%20%D0%BF%D0%BE%20Data%20Science.pdf">Ru</a>/<a href = "https://github.com/AleksKrot/AleksKrot/blob/main/Data%20Scientist.pdf">En</a></td> 
+</tr> 
 <tr>
   <td><a href = "https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science</a></td>
   <td>IBM</td>

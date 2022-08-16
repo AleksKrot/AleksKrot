@@ -12,8 +12,8 @@
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Специалист по Data Science</a></td>
   <td>Яндекс.Практикум</td>
   <td><a href = "https://practicum.yandex.ru/">Яндекс.Практикум</a></td>
-  <td>В процессе</td>
-  <td>В процессе</td>
+  <td>Завершен</td>
+  <td>2022</td>
   <td>нет</td>
 </tr>
 <tr>

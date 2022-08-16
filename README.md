@@ -113,14 +113,38 @@
   <td>Яндекс.Практикум</td>
   <td>Построение модели машинного обучения, которая определяет регион, где добыча принесёт наибольшую прибыль</td>
 </tr>
-
-
-| [Выбор локации для скважины](сhoosing_location) | Построение модели машинного обучения, которая определяет регион, где добыча принесёт наибольшую прибыль | *pandas, numpy, scikit-learn, scipy* |
-| [Восстановление золота из руды](recovery_of_gold) | Подготовка прототипа модели машинного обучения, которая предсказывает коэффициент восстановления золота из золотосодержащей руды | *pandas, numpy, matplotlib, scikit-learn* |
-| [Защита персональных данных клиентов](protection_of_data) | Разработка метода преобразования данных, чтобы по ним было сложно восстановить персональную информацию | *pandas, numpy, scikit-learn* |
-| [Определение стоимости автомобилей](cost_of_cars) | Построение модели для определения рыночной стоимости автомобиля | *pandas, numpy, matplotlib, scikit-learn, catboost, lightgbm* |
-| [Прогнозирование заказов такси](taxi_orders) | Построение модели для прогноза количества заказов такси на следующий час | *pandas, numpy, matplotlib, statsmodels, scikit-learn, catboost, lightgbm* |
-| [Поиск токсичных комментариев](toxic_comments) | Построение модели для классификации комментариев на позитивные и негативные | *pandas, numpy, re, nltk, matplotlib, seaborn, scikit-learn* |
-| [Определение возраста покупателей](age_of_buyers) | Построение сверточной нейронной сети для определения возраста по фотографии | *pandas, numpy, PIL, tensorflow, matplotlib* |
-| [Прогнозирование температуры плавления стали](prediction_of_temperature) | Построение модели, которая предскажет температуру стали | *pandas, numpy, matplotlib, seaborn, scikit-learn, catboost, lightgbm* |
-
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/recovery_of_gold">Восстановление золота из руды</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Подготовка прототипа модели машинного обучения, которая предсказывает коэффициент восстановления золота из золотосодержащей руды</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/protection_of_data">Защита персональных данных клиентов</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Разработка метода преобразования данных, чтобы по ним было сложно восстановить персональную информацию</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/cost_of_cars">Определение стоимости автомобилей</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Построение модели для определения рыночной стоимости автомобиля</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/taxi_orders">Прогнозирование заказов такси</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Построение модели для прогноза количества заказов такси на следующий час</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/toxic_comments">Поиск токсичных комментариев</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Построение модели для классификации комментариев на позитивные и негативные</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/age_of_buyers">Определение возраста покупателей</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Построение сверточной нейронной сети для определения возраста по фотографии</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/prediction_of_temperature">Прогнозирование температуры плавления стали</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Построение модели, которая предскажет температуру стали</td>
+</tr>

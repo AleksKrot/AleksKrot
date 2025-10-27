@@ -9,6 +9,14 @@
   <th>Диплом/Сертификат</th>
 </tr>
 <tr>
+  <td><a href = "https://21-school.ru/">Разработчик ПО</a></td>
+  <td>Школа 21 от Сбера</td>
+  <td><a href = "https://21-school.ru/">Яндекс.Практикум</a></td>
+  <td>В процессе</td>
+  <td>2025...</td>
+  <td><a href = "https://github.com/AleksKrot/AleksKrot/blob/main/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%20%D0%BF%D0%BE%20Data%20Science.pdf">Ru</a>/<a href = "https://github.com/AleksKrot/AleksKrot/blob/main/Data%20Scientist.pdf">En</a></td> 
+</tr>
+<tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Специалист по Data Science</a></td>
   <td>Яндекс.Практикум</td>
   <td><a href = "https://practicum.yandex.ru/">Яндекс.Практикум</a></td>

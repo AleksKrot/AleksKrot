@@ -80,11 +80,13 @@
   <th>Название проекта</th>
   <th>Источник проекта</th>
   <th>Описание</th>
+  <th>Стек</th>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Музыка больших городов</a></td>
-  <td>Яндекс.Практикум</td>
-  <td>Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)</td>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Утилиты Bash</a></td>
+  <td>Школа 21</td></td>
+  <td>Разработка утилит Bash cat т grep для работы с текстом</td>
+  <td>-</td>
 </tr>
 </table>
   

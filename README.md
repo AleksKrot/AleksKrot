@@ -14,6 +14,7 @@
   <td><a href = "https://21-school.ru/">Школа 21 от Сбера</a></td>
   <td>В процессе</td>
   <td>2025...</td>
+  <td>нет</td>
 </tr>
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Специалист по Data Science</a></td>

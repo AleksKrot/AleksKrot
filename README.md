@@ -1,4 +1,4 @@
-# Курсы:
+# Обучение:
 <table>
 <tr>
   <th>Название курса</th>
@@ -74,14 +74,27 @@
 </tr>
 </table>
 
-# Проекты:
+# Проекты на С:
 <table>
 <tr>
   <th>Название проекта</th>
   <th>Источник проекта</th>
   <th>Описание</th>
 </tr> 
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Музыка больших городов</a></td>
+  <td>Яндекс.Практикум</td>
+  <td>Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)</td>
+</tr>
+</table>
   
+# Проекты по Data Science:
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Источник проекта</th>
+  <th>Описание</th>
+</tr> 
 <tr>
   <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Музыка больших городов</a></td>
   <td>Яндекс.Практикум</td>

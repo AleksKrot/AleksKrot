@@ -85,7 +85,25 @@
 <tr>
   <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Утилиты Bash</a></td>
   <td>Школа 21</td></td>
-  <td>Разработка утилит Bash cat т grep для работы с текстом</td>
+  <td>Разработка утилит Bash my_cat и my_grep для работы с текстом</td>
+  <td>-</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Библиотека string.h</a></td>
+  <td>Школа 21</td></td>
+  <td>Реализация библиотеки my_string.h с дополнениями</td>
+  <td>-</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Библиотека decimal.h</a></td>
+  <td>Школа 21</td></td>
+  <td>Реализация собственной библиотеки my_decimal.h</td>
+  <td>-</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Библиотека matrix.h</a></td>
+  <td>Школа 21</td></td>
+  <td>Реализация библиотеки my_matrix.h</td>
   <td>-</td>
 </tr>
 </table>

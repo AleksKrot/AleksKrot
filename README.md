@@ -101,7 +101,7 @@
   <td>-</td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Библиотека matrix.h</a></td>
+  <td><a href = "https://github.com/AleksKrot/School_21/tree/main/Projects_on_C/Matrix.h_library">Библиотека matrix.h</a></td>
   <td>Школа 21</td></td>
   <td>Реализация библиотеки my_matrix.h</td>
   <td>-</td>

@@ -95,7 +95,7 @@
   <td>-</td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Библиотека decimal.h</a></td>
+  <td><a href = "https://github.com/AleksKrot/School_21/tree/main/Projects_on_C/Decimal.h_library">Библиотека decimal.h</a></td>
   <td>Школа 21</td></td>
   <td>Реализация собственной библиотеки my_decimal.h</td>
   <td>-</td>

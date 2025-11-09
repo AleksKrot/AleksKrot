@@ -83,7 +83,7 @@
   <th>Стек</th>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/AleksKrot/yandex_practicum/tree/main/big_cities_music">Утилиты Bash</a></td>
+  <td><a href = "https://github.com/AleksKrot/School_21/tree/main/Projects_on_C/Bash_Utilities">Утилиты Bash</a></td>
   <td>Школа 21</td></td>
   <td>Разработка утилит Bash my_cat и my_grep для работы с текстом</td>
   <td>-</td>

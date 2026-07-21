@@ -74,40 +74,6 @@
 </tr>
 </table>
 
-# Проекты на С:
-<table>
-<tr>
-  <th>Название проекта</th>
-  <th>Источник проекта</th>
-  <th>Описание</th>
-  <th>Стек</th>
-</tr> 
-<tr>
-  <td><a href = "https://github.com/AleksKrot/School_21-Bash_Utilities">Утилиты Bash</a></td>
-  <td>Школа 21</td></td>
-  <td>Разработка утилит Bash my_cat и my_grep для работы с текстом</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td><a href = "https://github.com/AleksKrot/School_21/tree/main/Projects_on_C/String.h_library">Библиотека string.h</a></td>
-  <td>Школа 21</td></td>
-  <td>Реализация библиотеки my_string.h с дополнениями</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td><a href = "https://github.com/AleksKrot/School_21/tree/main/Projects_on_C/Decimal.h_library">Библиотека decimal.h</a></td>
-  <td>Школа 21</td></td>
-  <td>Реализация собственной библиотеки my_decimal.h</td>
-  <td>-</td>
-</tr>
-<tr>
-  <td><a href = "https://github.com/AleksKrot/School_21/tree/main/Projects_on_C/Matrix.h_library">Библиотека matrix.h</a></td>
-  <td>Школа 21</td></td>
-  <td>Реализация библиотеки my_matrix.h</td>
-  <td>-</td>
-</tr>
-</table>
-  
 # Проекты по Data Science:
 <table>
 <tr>
